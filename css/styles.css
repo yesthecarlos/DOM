@@ -1,3 +1,19 @@
 #salad {
   display: none;
 }
+
+.green-background {
+  background-color: green;
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.white-background {
+  background-color: white;
+}
